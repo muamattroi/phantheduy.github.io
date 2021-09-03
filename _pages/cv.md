@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Software Engineering, University of Information Technology - Vietnam National University Ho Chi Minh City, 2008-2013
+* M.S. in Information Technology, University of Information Technology - Vietnam National University Ho Chi Minh City, 2014-2016
+* Ph.D student in Information Technology, specialized in Information Security, University of Information Technology - Vietnam National University Ho Chi Minh City, 2020-now
 
 Work experience
 ======
