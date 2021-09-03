@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Phan The Duy"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. Student at UIT, VNU-HCM"
   location         : "Ho Chi Minh City, Vietnam"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=HFzbk7AAAAAJ"
   email            : duypt@uit.edu.vn
-  researchgate     :  "https://www.researchgate.net/profile/Duy-Phan"
+  researchgate     : "https://www.researchgate.net/profile/Duy-Phan"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"phatheduyy"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
