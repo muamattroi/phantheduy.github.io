@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Phan The Duy, PhD Research Website"
+title                    : "Phan The Duy, Research Website"
 title_separator          : "-"
 name                     : &name "Phan The Duy"
 description              : &description "personal description"
