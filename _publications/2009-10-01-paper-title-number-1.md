@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2017-ICCSN2017-eddLeak
 date: 2017
 venue: 'Proceedings of IEEE 9th International Conference on Communication Software and Networks (ICCSN2017)'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Phan The Duy, Nguyen Tan Cam, Van-Hau Pham, <i>In Proceedings of IEEE 9th International Conference on Communication Software and Networks (ICCSN2017) </i>, Guangzhou, China (2017).'
 ---
 <B>Abstract: </B>
