@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Phan The Duy"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,6 +21,6 @@ For more info
 ------
  If you are interested in our research, please feel free to reach out. 
  
- Our website:[INSECLAB@UIT](https://inseclab.uit.edu.vn/). 
+ Our website: [INSECLAB@UIT](https://inseclab.uit.edu.vn/). <br>
  Email: duypt@uit.edu.vn
  Office: Room E8.1, Han Thuyen Road, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City.
