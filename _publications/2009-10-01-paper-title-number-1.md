@@ -13,4 +13,4 @@ In recent years, mobile malware has grown to be significant types of behaviors, 
 <br/>
 [PDF](http://academicpages.github.io/files/paper1.pdf)
 
-Phan The Duy, Nguyen Tan Cam, Van-Hau Pham, Guangzhou, 2017 <i>In Proceedings of IEEE 9th International Conference on Communication Software and Networks (ICCSN2017) </i>
+Phan The Duy, Nguyen Tan Cam, Van-Hau Pham, <i>In Proceedings of IEEE 9th International Conference on Communication Software and Networks (ICCSN2017) </i>, Guangzhou, China (2017)
