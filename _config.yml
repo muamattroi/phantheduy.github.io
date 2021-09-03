@@ -11,9 +11,9 @@ title                    : "Phan The Duy, PhD Research Website"
 title_separator          : "-"
 name                     : &name "Phan The Duy"
 description              : &description "personal description"
-url                      : https://phantheduy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://phantheduyy.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "muamattroi/phantheduy.github.io"
+repository               : "phantheduyy/phantheduyy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
