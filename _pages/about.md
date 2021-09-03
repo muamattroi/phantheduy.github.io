@@ -47,4 +47,6 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ If you are interested in our research, please feel free to reach out. [INSECLAB@UIT](https://inseclab.uit.edu.vn/). 
+ Email: duypt@uit.edu.vn
+ Office: Room E8.1, Han Thuyen Road, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City.
